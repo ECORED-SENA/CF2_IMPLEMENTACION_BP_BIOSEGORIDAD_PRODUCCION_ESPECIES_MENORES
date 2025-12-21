@@ -40,16 +40,16 @@
                 p.mb-0 Temperatura óptima: 18–24 °C.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Humedad relativa: 55–70 %
+                p.mb-0 Humedad relativa: 55–70 %.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Ventilación: natural o forzada, con flujo cruzado de aire
+                p.mb-0 Ventilación: natural o forzada, con flujo cruzado de aire.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Iluminación: 14–16 h/día para óptima postura
+                p.mb-0 Iluminación: 14–16 h/día para óptima postura.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Densidad: 80–120 cm² por ave adulta
+                p.mb-0 Densidad: 80–120 cm² por ave adulta.
           .col-lg-5.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema6/3.png', alt='Texto que describa la imagen')
@@ -60,7 +60,7 @@
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Orientación Este–Oeste para reducir la incidencia solar..
+                p.mb-0 Orientación este–oeste para reducir la incidencia solar.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Paredes laterales con malla plástica o metálica para permitir circulación de aire.
@@ -278,7 +278,7 @@
                   li.mb-3.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 Bandeja inferior de excretas en cada nivel.
-                  li.mb-0.d-flex
+                  li.mb-3.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 Bebederos automáticos tipo chupón.
                   li.mb-0.d-flex

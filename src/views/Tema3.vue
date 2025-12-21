@@ -63,7 +63,7 @@
                 p.mb-0 Pendiente del suelo: 2–4 % hacia los drenajes.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Orientación: eje longitudinal Este–Oeste para aprovechar la luz solar.
+                p.mb-0 Orientación: eje longitudinal este–oeste para aprovechar la luz solar.
           .col-md-5.order-1.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/4.png', alt='Texto que describa la imagen')
@@ -171,7 +171,7 @@
                     p.mb-0 <b>Iluminación natural</b>: mínimo 8 horas al día, mediante ventanas o paneles translúcidos.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 <b><em>Confort</em> térmico</b>: sombra parcial, sin corrientes de aire directas sobre los animales.
+                    p.mb-0 <b>Confort térmico</b>: sombra parcial, sin corrientes de aire directas sobre los animales.
     
     separador
     
@@ -306,7 +306,7 @@
             figure
               img(src="@/assets/curso/tema3/9.png", data-aos="zoom-in")
           .col-lg-7.order-lg-1  
-            p p Las instalaciones y equipos destinados a la crianza de cuyes deben planificarse con un enfoque integral que combine bienestar animal, eficiencia operativa, higiene y sostenibilidad económica. Este enfoque permite adaptar la infraestructura a las condiciones y recursos del productor, sin comprometer la productividad. El pequeño productor puede iniciar con soluciones simples y locales, e ir escalando progresivamente hacia sistemas más tecnificados, de acuerdo con sus capacidades técnicas y económicas. A continuación se presentan los beneficios de una inversión adecuada en infraestructura, independientemente de la escala del sistema:
+            p Las instalaciones y equipos destinados a la crianza de cuyes deben planificarse con un enfoque integral que combine bienestar animal, eficiencia operativa, higiene y sostenibilidad económica. Este enfoque permite adaptar la infraestructura a las condiciones y recursos del productor, sin comprometer la productividad. El pequeño productor puede iniciar con soluciones simples y locales, e ir escalando progresivamente hacia sistemas más tecnificados, de acuerdo con sus capacidades técnicas y económicas. A continuación se presentan los beneficios de una inversión adecuada en infraestructura, independientemente de la escala del sistema:
             .bg-color-9.p-4.tarjeta(data-aos="fade-left")
               .row.align-items-start
                 .col-lg-auto.mb-3.mb-lg-0

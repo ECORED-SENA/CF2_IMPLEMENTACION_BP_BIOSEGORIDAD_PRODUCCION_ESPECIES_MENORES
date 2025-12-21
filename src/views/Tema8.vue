@@ -34,7 +34,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/4.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Cobertizo o refugio
-                p.text-center Resguarda del sol, lluvia o frío.
+                p.text-center Resguarda del sol, la lluvia o el frío.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Área de alimentación y agua
@@ -332,7 +332,7 @@
                       p.mb-0 Comederos y bebederos automáticos.
                     li.mb-2.d-flex
                       i.fas.fa-circle-check
-                      p.mb-0 Requiere mayor inversión y manejo especializado
+                      p.mb-0 Requiere mayor inversión y manejo especializado.
 
         p.mb-5 El espacio mínimo y la altura de las vallas deben ajustarse a la categoría animal para garantizar seguridad, confort y manejo adecuado en los corrales ovinos. A continuación se presentan los valores de referencia más utilizados:
 

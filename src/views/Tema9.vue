@@ -22,16 +22,16 @@
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Crecimiento óptimo
+                    p.mb-0 Crecimiento óptimo.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Buena conversión alimenticia
+                    p.mb-0 Buena conversión alimenticia.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Eficiencia reproductiva
+                    p.mb-0 Eficiencia reproductiva.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Sostenibilidad ambiental del sistema
+                    p.mb-0 Sostenibilidad ambiental del sistema.
     
     separador
     
@@ -355,7 +355,7 @@
                     p.mb-0 <b>Suplementos</b>: afrecho de trigo, harina de maíz, salvado de arroz y residuos hortícolas frescos. 
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 <b>Consumo diario</b>: 10–12 % del peso vivo en materia verde
+                    p.mb-0 <b>Consumo diario</b>: 10–12 % del peso vivo en materia verde.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 <b>Agua</b>: limpia y disponible ad libitum. 

@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Producción pecuaria sostenible e innovadora de especies menores'

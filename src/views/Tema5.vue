@@ -19,8 +19,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Yw2o67rdqSY?si=b7WoQ5_SbCzdwIMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
     .bg-color-12.tarjeta
       .px-4.py-4
@@ -738,8 +738,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/R19cUHL1q_I?si=Wb2pAvd6n2mTkzF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -785,13 +785,13 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fas.fa-circle-check
-                        p.mb-0 Mejora el rendimiento productivo
+                        p.mb-0 Mejora el rendimiento productivo.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check
-                        p.mb-0 Mejora el rendimiento productivo
+                        p.mb-0 Mejora el rendimiento productivo.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check
-                        p.mb-0 Favorece la sostenibilidad del sistema
+                        p.mb-0 Favorece la sostenibilidad del sistema.
         
         p Cada tipo de galpón (tradicional, cerrado, automático o de pastoreo) requiere ajustes técnicos específicos según el clima, la altitud y el modelo productivo. Adaptar estas condiciones al contexto local es clave para alcanzar resultados óptimos en la avicultura moderna.
 
@@ -882,7 +882,7 @@
                     img(src="@/assets/curso/tema5/67.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Disminución de la postura  
-                    p.mb-0 Hasta un 20–30 % en solo 24 horas
+                    p.mb-0 Hasta un 20–30 % en solo 24 horas.
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
@@ -891,7 +891,7 @@
                     img(src="@/assets/curso/tema5/68.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Mayor prevalencia de enfermedades
-                    p.mb-0 Digestivas y respiratorias 
+                    p.mb-0 Digestivas y respiratorias.
         .row
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-6.tarjeta.h-100
@@ -901,7 +901,7 @@
                     img(src="@/assets/curso/tema5/69.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Estrés hídrico
-                    p.mb-0 Menor consumo de alimento y pérdida de peso
+                    p.mb-0 Menor consumo de alimento y pérdida de peso.
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
@@ -910,7 +910,7 @@
                     img(src="@/assets/curso/tema5/70.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Acumulación de amoníaco 
-                    p.mb-0 Acumulación de amoníaco
+                    p.mb-0 Acumulación de amoníaco.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -1016,8 +1016,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1jsZtiYd-I8?si=S_vzUhYxJQ-vWGJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -1070,16 +1070,16 @@
                 ul.lista-ul--color.mb-0
                   li.mb-.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Mejora la eficiencia productiva
+                    p.mb-0 Mejora la eficiencia productiva.
                   li.mb-.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Disminuye la morbilidad
+                    p.mb-0 Disminuye la morbilidad.
                   li.mb-.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Reduce el desperdicio de agua y alimento
+                    p.mb-0 Reduce el desperdicio de agua y alimento.
                   li.mb-.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 Optimiza el ambiente dentro del galpón
+                    p.mb-0 Optimiza el ambiente dentro del galpón.
                   li.mb-.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 Recordatorio técnico: “El alimento entra por la boca, pero la producción comienza por el agua.”
@@ -1226,8 +1226,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WuzifVorPj0?si=u91JTp-P7SupsVBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
 
 </template>

@@ -284,7 +284,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema1/23.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Condición del animal
-                p.text-center No vacunar animales enfermos, gestantes o estresados
+                p.text-center No vacunar animales enfermos, gestantes o estresados.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema1/24.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Higiene
@@ -470,17 +470,17 @@
       .col-lg-9.order-lg-1
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-6")
           div(titulo="Codornices (<em>Coturnix coturnix</em>)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Eimeria spp., Ascaridia galli, ácaros, piojos.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <em>Eimeria spp., Ascaridia galli</em>, ácaros, piojos.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: pérdida de postura, diarrea, plumaje desordenado.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: amprolio o toltrazuril; ivermectina oral. Limpieza diaria, control de humedad y fumigación.
 
           div(titulo="Cabras (<em>Capra hircus</em>)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Haemonchus contortus, Eimeria spp., piojos, ácaros, garrapatas.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <em>Haemonchus contortus, Eimeria spp</em>., piojos, ácaros, garrapatas.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: anemia, pelaje opaco, diarrea, “papada”.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: albendazol, levamisol o ivermectina cada 3–4 meses. Pastoreo rotacional, baños garrapaticidas y control ambiental.
 
           div(titulo="Ovejas (<em>Ovis aries</em>)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Haemonchus, Fasciola hepatica, Ostertagia, garrapatas, piojos, sarna.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <em>Haemonchus</em>, Fasciola hepatica, Ostertagia, garrapatas, piojos, sarna.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: mucosas pálidas, decaimiento, pérdida de lana, diarrea.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: albendazol, ivermectina o triclabendazol cada 3 meses. Baños externos, rotación de potreros y coprologías periódicas.
     
@@ -757,8 +757,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kY02h_FrTyQ?si=l3nOH1I9pmwN1Cmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

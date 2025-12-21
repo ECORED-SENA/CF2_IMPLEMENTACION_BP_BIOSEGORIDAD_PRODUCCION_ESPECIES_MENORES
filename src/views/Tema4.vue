@@ -64,7 +64,7 @@
                   figure
                     img(src='@/assets/curso/tema4/5.svg', alt='Texto que describa la imagen')
               h5.text-center Orientación del galpón
-              p.text-center Eje longitudinal Este–Oeste
+              p.text-center Eje longitudinal este–oeste
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -212,7 +212,7 @@
                 figure
                   img(src="@/assets/curso/tema4/14.png", alt="alt")
               .crd_hover_txt--body
-                p.mb-0 Desinfección semanal con soluciones iodadas o amonio cuaternario
+                p.mb-0 Desinfección semanal con soluciones iodadas o amonio cuaternario.
 
         
           .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -221,7 +221,7 @@
                 figure
                   img(src="@/assets/curso/tema4/15.png", alt="alt")
               .crd_hover_txt--body
-                p.mb-0 Lavado diario de bebederos y retiro de residuos del piso
+                p.mb-0 Lavado diario de bebederos y retiro de residuos del piso.
 
         
           .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -230,7 +230,7 @@
                 figure
                   img(src="@/assets/curso/tema4/16.png", alt="alt")
               .crd_hover_txt--body
-                p.mb-0 Control de roedores e insectos mediante barreras físicas
+                p.mb-0 Control de roedores e insectos mediante barreras físicas.
 
         separador
         
@@ -271,10 +271,10 @@
     #t_4_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.5 Bioseguridad en instalaciones cunícolas
     
-    p.mb-5 La bioseguridad es clave para prevenir enfermedades como enteritis, coccidiosis y neumonías, comunes en ambientes húmedos o mal ventilados (ICA, 2022). A continuación, se resume las medidas básicas:
+    p.mb-5 La bioseguridad es clave para prevenir enfermedades como enteritis, coccidiosis y neumonías, comunes en ambientes húmedos o mal ventilados (ICA, 2022). A continuación, se resumen las medidas básicas:
 
     .row
-      .col-lg-4.order-lg-2.mb-3.mb-lg-0
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0.d-lg-block.d-none
         figure
           img(src="@/assets/curso/tema4/19.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1    

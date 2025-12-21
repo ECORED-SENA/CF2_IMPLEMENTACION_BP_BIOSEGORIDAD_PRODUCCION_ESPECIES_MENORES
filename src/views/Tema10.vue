@@ -34,13 +34,13 @@
               ul.lista-ul--color.mb-0
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
-                  p.mb-0 Transformar leche caprina en queso artesanal o yogur 
+                  p.mb-0 Transformar leche caprina en queso artesanal o yogur.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
-                  p.mb-0 Elaborar embutidos de conejo o cuy con sello regional
+                  p.mb-0 Elaborar embutidos de conejo o cuy con sello regional.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
-                  p.mb-0 Empacar huevos de codorniz en envases biodegradables
+                  p.mb-0 Empacar huevos de codorniz en envases biodegradables.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
                   p.mb-0 Comercializar productos con certificaciones (BPG, libre de antibióticos, artesanal, orgánico).
@@ -60,7 +60,7 @@
                   p.mb-0 Diferenciación en mercados especializados.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
-                  p.mb-0 Generación de empleo en zonas rurales
+                  p.mb-0 Generación de empleo en zonas rurales.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check
                   p.mb-0 Conservación ambiental e impulso a prácticas sostenibles.
@@ -170,7 +170,7 @@
                   figure
                     img(src='@/assets/curso/tema10/9.svg', alt='Texto que describa la imagen')
               h5.text-center Aves y codornices
-              p.text-center Huevos pasteurizados, conservas, polvo proteico
+              p.text-center Huevos pasteurizados, conservas, polvo proteico.
           .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
