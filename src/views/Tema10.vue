@@ -229,7 +229,7 @@
                 figure
                   img(src="@/assets/curso/tema10/13.svg", data-aos="zoom-in")
               .col-lg-7
-                h3(data-aos="fade-left").mb-4.text-white Pódcast
+                h3(data-aos="fade-left").mb-4.text-white Pódcast 
         
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="Casos de innovación destacados"
