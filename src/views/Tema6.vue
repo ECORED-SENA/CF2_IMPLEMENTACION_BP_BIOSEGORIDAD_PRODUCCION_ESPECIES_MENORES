@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 Codornices (<em>Coturnix coturnix japonica</em>)
+      h1 Codornices (<em>Coturnix coturnix japónica</em>)
     
     .row.mb-5
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
@@ -185,8 +185,6 @@
     
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.4 Iluminación y confort térmico
-    
-    p.mb-5 Una iluminación adecuada y el control de la temperatura son factores clave en la regulación de la postura, el crecimiento y la salud de las codornices, especialmente en sistemas intensivos.
 
     .row.mb-5.align-items-center
       .col-lg-5.mb-3.mb-lg-0.order-lg-2

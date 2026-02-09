@@ -76,8 +76,6 @@
                 td Agua
                 td Transporte de nutrientes, digestión, termorregulación
                 td Agua limpia, fresca y permanente
-
-
     
     .bg-color-16.tarjeta.mb-5
       .px-4.px-md-5.py-4
@@ -189,7 +187,7 @@
             tbody.bg-color-white
               tr
                 td Gramíneas
-                td Kikuyo (Pennisetum clandestinum), pasto estrella (Cynodon plectostachyus), Brachiaria (Urochloa spp.)
+                td Kikuyo (#[i Pennisetum clandestinum]), pasto estrella (#[i Cynodon plectostachyus]), Brachiaria (#[i Urochloa spp].)
               tr.bg-color-sintesis
                 td Leguminosas
                 td Leucaena, matarratón, canavalia
@@ -280,8 +278,6 @@
                     td.p-3 Frecuencia de corte
                     td.p-3 Cada 45–60 días, según crecimiento
 
-        
-
         separador
         
         #t_9_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -326,8 +322,6 @@
                     td Probióticos
                     td Microorganismos benéficos, fermentos caseros
                     td Mejora de la flora intestinal
-
-
         
         p.mb-5 Los suplementos deben ser ofrecidos en cantidades controladas, en horarios regulares, y adaptados a la etapa productiva del animal.
 
@@ -385,7 +379,7 @@
                     p.mb-0 <b>Balanceado convencional</b>: maíz, soya, torta de palmiste, caliza, fosfato dicálcico, premix vitamínico. 
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
-                    p.mb-0 <b>Alternativas locales</b>: harina de yuca, lombricompuesto, moringa pulverizada, insectos (Hermetia illucens). 
+                    p.mb-0 <b>Alternativas locales</b>: harina de yuca, lombricompuesto, moringa pulverizada, insectos (<i>Hermetia illucens</i>). 
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 <b>Promotores naturales</b>: vinagre de manzana, ajo y cúrcuma. 
@@ -443,10 +437,6 @@
                   li.mb-2.d-flex
                     i.fas.fa-circle-check
                     p.mb-0 <b>Prácticas sostenibles</b>: rotación de potreros, uso de forrajes proteicos (leucaena, tithonia) y cultivos de cobertura.
-              
-
-
-  
 
 </template>
 

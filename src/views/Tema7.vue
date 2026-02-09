@@ -288,7 +288,7 @@
         separador
         
         #t_7_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 7.6 Permite la desinfección al ingreso. Material: fibra de vidrio o concreto. Debe contener una solución desinfectante permanente.
+          h2 7.6 Tipos de corrales y sistemas de alojamiento
         
         p.mb-5 Los corrales deben seleccionarse según la escala de producción y el nivel de inversión. A continuación, se presentan tres modelos comunes:
 

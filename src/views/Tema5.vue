@@ -674,7 +674,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
             h3.titulo-con-imagen__texto Espacio
     
-    p.mb-5 reducción El espacio disponible determina la densidad de aves por metro cuadrado, lo cual impacta directamente en el bienestar animal, la productividad y el riesgo sanitario. Un manejo inadecuado del espacio puede provocar hacinamiento, comportamientos agresivos y reducción significativa en la postura. Las consecuencias del hacinamiento son: 
+    p.mb-5 El espacio disponible determina la densidad de aves por metro cuadrado, lo cual impacta directamente en el bienestar animal, la productividad y el riesgo sanitario. Un manejo inadecuado del espacio puede provocar hacinamiento, comportamientos agresivos y reducción significativa en la postura. Las consecuencias del hacinamiento son: 
 
     .row.mb-5.align-items-center
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -788,7 +788,7 @@
                         p.mb-0 Mejora el rendimiento productivo.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check
-                        p.mb-0 Mejora el rendimiento productivo.
+                        p.mb-0 Asegura el bienestar animal.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check
                         p.mb-0 Favorece la sostenibilidad del sistema.

@@ -83,7 +83,7 @@
                 p.mb-0 Zona sucia: disposición de estiércol y residuos.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Zona sucia: disposición de estiércol y residuos.
+                p.mb-0 Área de cuarentena o enfermería.
           .col-lg-5.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/5.png', alt='Texto que describa la imagen')

@@ -60,7 +60,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Tabla 20.
               span Dimensiones orientativas
-            .tabla-a.color-acento-contenido.mb-5
+            .tabla-a.color-acento-contenido
               table
                 thead
                   tr
@@ -89,12 +89,10 @@
                     td 1 cada 25–30 animales
                     td Altura del borde: 40–50 cm
 
-        
-
-        .titulo-con-imagen.mb-5(data-aos="fade-right")
-          .titulo-con-imagen__fondo
-            img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
-            h3.titulo-con-imagen__texto Distribución interna y manejo del espacio
+        separador
+    
+        #t_8_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+          h2 8.2 Distribución interna y manejo del espacio
         
         p.mb-5 Una correcta distribución interna favorece el bienestar animal y agiliza los procesos operativos, reduciendo riesgos sanitarios y tiempos de manejo.
 
@@ -193,7 +191,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Tabla 21.
               span Materiales de construcción recomendados
-            .tabla-a.color-acento-contenido.mb-5
+            .tabla-a.color-acento-contenido
               table
                 thead
                   tr
@@ -226,9 +224,6 @@
                     td Concreto o plástico resistente
                     td Con válvula flotadora o chupón
 
-
-
-        
         separador
         
         #t_8_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -364,8 +359,7 @@
                     td.p-2 Corderos
                     td.p-2 0,8–1,0 m²
                     td.p-2 1,1 m
-
-
+  
     separador
     
     #t_8_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -402,10 +396,6 @@
               li.mb-2.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 <b>Evitar</b>: acumulación de gases, encharcamientos y corrientes sobre corderos.
-    
-
-
-
 
 </template>
 

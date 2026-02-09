@@ -143,7 +143,6 @@
                     td.p-3 Inseminación, sincronización, mejora genética
                     td.p-3 Conejos, cabras, ovejas
 
-
         separador
         
         #t_10_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -218,27 +217,25 @@
 
     p.mb-5 A continuación, se presentan experiencias exitosas de innovación en sistemas pecuarios menores en Colombia, evidenciando cómo el ingenio y la adaptación tecnológica transforman la ruralidad del país.
 
-    .row.mb-5
+    .row
       .col-lg-5.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema10/12.png", data-aos="zoom-in")
       .col-lg-7
-        .bg-color-17.tarjeta.mb-5
+        .bg-color-17.tarjeta
           .p-4
             .row.justify-content-center.align-items-center
               .col-lg-5.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema10/13.svg", data-aos="zoom-in")
               .col-lg-7
-                h3(data-aos="fade-left").mb-4.text-white Podcast
+                h3(data-aos="fade-left").mb-4.text-white Pódcast
         
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="Casos de innovación destacados"
                   tiempo
                   :audio="require('../assets/curso/podcast/podcast1.mp3')"
                 )
-        
-
 
 </template>
 

@@ -114,7 +114,7 @@
                 img(src="@/assets/curso/tema1/6.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Cuyes (<em>Cavia porcellus</em>)
-              p Corrales amplios, ventilados y con buena iluminación natural. Se deben incluir refugios por su naturaleza tímida, con una densidad máxima de 10 animales por metro cuadrado. Requieren heno seco, pasto fresco y agua limpia siempre disponible. Es fundamental la vacunación contra salmonelosis, la desparasitación y la limpieza diaria. Se debe evitar el ruido fuerte, la manipulación brusca y las temperaturas fuera del rango de 18 a 22 °C.
+              p Corrales amplios, ventilados y con buena iluminación natural. Se deben incluir refugios por su naturaleza tímida, con una densidad máxima de 10 animales por metro cuadrado. Requieren heno seco, pasto fresco y agua limpia siempre disponible. Es fundamental la vacunación contra salmonelosis, la desparasitación y la limpieza diaria. Se debe evitar el ruido fuerte, la manipulación brusca y las temperaturas fuera del rango de 18 °C a 22 °C.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -136,7 +136,7 @@
               figure
                 img(src="@/assets/curso/tema1/9.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Codornices (<em>Coturnix coturnix japonica</em>)
+              h5 Codornices (<em>Coturnix coturnix japónica</em>)
               p Jaulas limpias con pisos lisos y ambientes protegidos de corrientes de aire. Su alimentación debe ser balanceada y acompañada de agua fresca. Requieren vacunación contra Newcastle y control de parásitos intestinales. Se recomienda mantener el mínimo ruido, manipularlas con cuidado y proporcionarles entre 14 y 16 horas de luz al día.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -185,7 +185,7 @@
                 img(src="@/assets/curso/tema1/14.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Cuyes (<em>Cavia porcellus</em>)
-              p Presentan alta sensibilidad al estrés y vocalizan ante el miedo, el dolor o la curiosidad. Son susceptibles a los cambios bruscos de ambiente. Se recomienda proporcionar refugios, evitar el aislamiento, reducir los ruidos y realizar una manipulación suave. La temperatura ideal debe mantenerse entre 18 y 22 °C.
+              p Presentan alta sensibilidad al estrés y vocalizan ante el miedo, el dolor o la curiosidad. Son susceptibles a los cambios bruscos de ambiente. Se recomienda proporcionar refugios, evitar el aislamiento, reducir los ruidos y realizar una manipulación suave. La temperatura ideal debe mantenerse entre 18 °C y 22 °C.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -207,8 +207,8 @@
               figure
                 img(src="@/assets/curso/tema1/17.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Codornices (<em>Coturnix coturnix japonica</em>)
-              p Son muy sensibles al ruido, la luz intensa y el hacinamiento. El picoteo excesivo es un signo de estrés. Se recomienda iluminación tenue de 14 a 16 horas, temperatura estable entre 22 y 25 °C, evitar sobresaltos y mantener un ambiente ventilado y tranquilo.
+              h5 Codornices (<em>Coturnix coturnix japónica</em>)
+              p Son muy sensibles al ruido, la luz intensa y el hacinamiento. El picoteo excesivo es un signo de estrés. Se recomienda iluminación tenue de 14 a 16 horas, temperatura estable entre 22 °C y 25 °C, evitar sobresaltos y mantener un ambiente ventilado y tranquilo.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -325,7 +325,7 @@
                 th.bg-color-11 Observaciones sanitarias
             tbody.bg-color-white
               tr
-                td Cuyes (Cavia porcellus)
+                td Cuyes (#[i Cavia porcellus])
                 td Salmonelosis / Pasteurelosis
                 td Recomendada
                 td SC
@@ -333,7 +333,7 @@
                 td Desde 25 días; refuerzo anual
                 td Requiere alta bioseguridad
               tr.bg-color-sintesis
-                td Conejos (Oryctolagus cuniculus)
+                td Conejos (#[i Oryctolagus cuniculus])
                 td Mixomatosis / EVH
                 td Recomendada
                 td SC / ID
@@ -349,7 +349,7 @@
                 td Desde el 1.er día; refuerzos cada 6–8 semanas
                 td Certificación ICA y limpieza de equipos
               tr.bg-color-sintesis
-                td Codornices (Coturnix coturnix japonica)
+                td Codornices (#[i Coturnix coturnix japónica])
                 td Newcastle / Bronquitis
                 td Recomendada
                 td Ocular / Agua
@@ -357,7 +357,7 @@
                 td 7.º día; refuerzo trimestral
                 td Galpones ventilados, evitar hacinamiento
               tr
-                td Cabras (Capra hircus)
+                td Cabras (#[i Capra hircus])
                 td Fiebre aftosa / Ántrax / Enterotoxemia / Brucelosis
                 td Obligatoria / Oficial
                 td SC / Conjuntival
@@ -365,7 +365,7 @@
                 td Desde 3 meses; refuerzos anuales o semestrales
                 td Registro ICA obligatorio
               tr.bg-color-sintesis
-                td Ovejas (Ovis aries)
+                td Ovejas (#[i Ovis aries])
                 td Fiebre aftosa / Ántrax / Clostridiosis / Ectima / Brucelosis
                 td Obligatoria / Recomendada
                 td SC / Cutánea
@@ -449,17 +449,17 @@
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-6")
           div(titulo="Cuyes (<em>Cavia porcellus</em>)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Trichuris, Strongyloides, Eimeria caviae, Gyropus ovalis, Trixacarus caviae.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <i>Trichuris, Strongyloides, Eimeria caviae, Gyropus ovalis, Trixacarus caviae</i>.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: pelo erizado, diarrea, picazón, pérdida de peso, infertilidad.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: albendazol (10 mg/kg) o ivermectina (0.2 mg/kg) cada 3–4 meses. Limpieza de pozas, cambio de cama y desinfección con cal o amonio cuaternario.
 
           div(titulo="Conejos (<em>Oryctolagus cuniculus</em>)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Eimeria spp., Passalurus ambiguus, Psoroptes cuniculi, Cheyletiella parasitovorax.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <i>Eimeria spp., Passalurus ambiguus, Psoroptes cuniculi, Cheyletiella parasitovorax</i>.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: diarrea, costras auriculares, prurito, baja ganancia diaria.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: toltrazuril (oral) o ivermectina SC cada 4 meses. Limpieza diaria de jaulas, control de vectores y uso de desinfectantes.
 
           div(titulo="Aves (Gallinas y postura)")
-            p.mb-0.ms-5 <b>Parásitos comunes</b>: Ascaridia galli, Eimeria spp., Capillaria, Dermanyssus, Menacanthus, Cnemidocoptes.
+            p.mb-0.ms-5 <b>Parásitos comunes</b>: <i>Ascaridia galli, Eimeria spp., Capillaria, Dermanyssus, Menacanthus, Cnemidocoptes</i>.
             p.mb-0.ms-5 <b>Síntomas frecuentes</b>: plumaje sucio, diarrea, baja postura, picoteo, anemia.
             p.mb-0.ms-5 <b>Tratamiento / Manejo</b>: piperazina, levamisol o albendazol en agua cada 3–4 meses; amprolio o toltrazuril para coccidiosis. Baños de ceniza o tierra diatomea y rotación de corrales.
     
@@ -619,7 +619,7 @@
               figure
                 img(src="@/assets/curso/tema1/45.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Codornices (<em>Coturnix coturnix japonica</em>)
+              h5 Codornices (<em>Coturnix coturnix japónica</em>)
               p.mb-0 <b>Zoonosis comunes</b>: salmonelosis, campylobacteriosis, clamidiosis.
               p.mb-0 <b>Vías de transmisión</b>: contacto con heces, huevos crudos o carne mal cocida.
               p.mb-0 <b>Medidas preventivas clave</b>: limpieza de jaulas, desinfección, cocción adecuada.
@@ -639,7 +639,7 @@
                 img(src="@/assets/curso/tema1/47.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Ovejas (<em>Ovis aries</em>)
-              p.mb-0 <b>Zoonosis comunes</b>: brucelosis ovina, fiebre Q, ectima contagioso, listeriosis, leptospirosis.
+              p.mb-0 <b>Zoonosis comunes</b>: brucelosis ovina, fiebre Q, ectima contagiosa, listeriosis, leptospirosis.
               p.mb-0 <b>Vías de transmisión</b>: contacto con heces, manipulación de animales infectados.
               p.mb-0 <b>Medidas preventivas clave</b>: uso de guantes y mascarillas, desinfección, evitar consumo de leche cruda.
 

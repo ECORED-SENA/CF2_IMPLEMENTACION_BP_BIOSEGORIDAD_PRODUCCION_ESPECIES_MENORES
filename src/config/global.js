@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Producción pecuaria sostenible e innovadora de especies menores.',
     Description:
-      'La producción de especies menores es clave para la seguridad alimentaria y el desarrollo rural. El componente formativo a fortalece competencias en manejo, bioseguridad, nutrición y sostenibilidad, promoviendo sistemas eficientes y con valor agregado. Con enfoque práctico, impulsa el bienestar animal, el uso de recursos locales y la innovación, mejorando la competitividad y calidad de vida rural.',
+      'La producción de especies menores es clave para la seguridad alimentaria y el desarrollo rural. El componente formativo fortalece competencias en manejo, bioseguridad, nutrición y sostenibilidad, promoviendo sistemas eficientes y con valor agregado. Con enfoque práctico, impulsa el bienestar animal, el uso de recursos locales y la innovación, mejorando la competitividad y calidad de vida rural.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -195,7 +195,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Codornices (<em>Coturnix coturnix japonica</em>)',
+        titulo: 'Codornices (<em>Coturnix coturnix japónica</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
