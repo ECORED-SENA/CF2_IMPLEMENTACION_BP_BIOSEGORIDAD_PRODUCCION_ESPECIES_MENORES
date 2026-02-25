@@ -69,7 +69,7 @@
                 p.mb-0 Techo de fibrocemento, zinc o teja plástica con aislamiento térmico.
               li.mb-3.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Piso de concreto con pendiente del 2 % para drenaje..
+                p.mb-0 Piso de concreto con pendiente del 2 % para drenaje.
           .col-lg-5.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema6/4.png', alt='Texto que describa la imagen')
